@@ -1,0 +1,20 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "A responsive personal website to showcase skills, projects, and contact info for potential clients/employers.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "framer-motion": "latest"
+  }
+}
