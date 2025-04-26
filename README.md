@@ -1,1 +1,1 @@
-This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
+This repository contains code for my personal website.
